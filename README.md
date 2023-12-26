@@ -3,4 +3,4 @@ A machine learning model using Transfer Learning trained on ResNet 50 to classif
 
 ## How to run
 - Open a Google Colab environment to run the notebook
-- Ensure "data" folder is put in Google "My Drive"
+- Ensure "train" and "test" folders are placed in Google "My Drive" under a directory called "5_shot"
